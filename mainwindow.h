@@ -16,6 +16,7 @@ public:
     ~MainWindow();
 
 private:
+    void timeZoneTest();
     Ui::MainWindow *ui;
 };
 
